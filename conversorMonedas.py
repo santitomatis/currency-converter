@@ -40,7 +40,5 @@ if convert == 4:
     converter(currency_to_convert, value_MX_USD, currency_output)
 
 
-
-
-# else:
-#     print("comando no valido, vuelve a ejecutar el programa y escribe bien")
+else:
+    print("invalid command, execute again and type properly")
